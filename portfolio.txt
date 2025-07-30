@@ -1,0 +1,6 @@
+📊 Your Portfolio Summary
+----------------------------
+TSLA: 5 × ₹250 = ₹1250
+AAPL: 3 × ₹180 = ₹540
+
+💰 Total Investment: ₹1790
