@@ -1,6 +1,6 @@
 # 📈 Stock Portfolio Tracker
 
-A smart, beginner-friendly Python project that calculates your total investment based on selected stock holdings. This project was created as part of the CodeAlpha Python internship and includes features like profit tracking, file exports, and data visualization.
+A smart, beginner-friendly Python project that calculates your total investment based on selected stock holdings. This project includes features like profit tracking, file exports, and data visualization.
 
 ---
 
@@ -47,3 +47,4 @@ TSLA: 3 × ₹250 = ₹750 | Profit: ₹60
 
 💰 Total Investment: ₹1650
 🏅 Investment Grade: 🔵 Smart Investor
+
